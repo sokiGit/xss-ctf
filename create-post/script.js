@@ -1,3 +1,4 @@
+// k tomuhle inspect element nepotřebuješ :)
 import { retrieveTable, saveTable } from "../dataStorage.mjs";
 
 const form = document.getElementById("form");
